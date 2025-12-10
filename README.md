@@ -1,5 +1,8 @@
 # Panorama: A robust pangenome-based method for predicting and comparing biological systems across species
 
+[![DOI](https://zenodo.org/badge/804244841.svg)](https://doi.org/10.5281/zenodo.17877539)
+[![Source](https://img.shields.io/badge/source-GitHub-303030.svg?maxAge=2678400&style=flat-square)](https://github.com/labgem/PANORAMA_article/)
+
 ## About the project
 
 PANORAMA is an innovative pangenomic tool designed to exploit pangenome graphs and enable them to be annotated and
